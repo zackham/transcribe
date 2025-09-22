@@ -1,0 +1,10 @@
+# Environment files
+.env
+
+# Compiled binary
+voice-transcribe
+
+# Temporary files
+*.tmp
+/tmp/voice_transcribe*
+/tmp/voice_viz.py
